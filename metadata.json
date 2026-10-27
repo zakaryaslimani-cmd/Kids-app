@@ -1,0 +1,6 @@
+{
+  "name": "Number Smash 3D - Toddler Pop & Learn",
+  "description": "An interactive 3D number-smashing game for toddlers and early learners featuring 9 spots, clear pronunciation, rewarding badges, multiple themes, and parental controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
